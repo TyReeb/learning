@@ -1,2 +1,2 @@
 read this
-*bold* JK
+*JK*
